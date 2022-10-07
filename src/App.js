@@ -13,7 +13,16 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Ekateryna Myhalchenko</small>{" "}
+          <small>
+            Coded by Ekateryna Myhalchenko and is{" "}
+            <a
+              href="https://github.com/katja4erry/react-dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              open-sourced on GitHub
+            </a>
+          </small>{" "}
         </footer>
       </div>
     </div>
