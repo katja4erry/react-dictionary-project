@@ -1,5 +1,9 @@
-.App {
-  text-align: center;
+body {
+  background: #e8fbfa;
+}
+
+a {
+  color: #116964;
 }
 
 .App-header {
